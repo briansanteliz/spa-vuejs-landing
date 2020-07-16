@@ -13,9 +13,11 @@
                 05/06/2020 - 10/06/2020
               </p>
               <p>
-                <i class="fas fa-dollar-sign"></i> 100$ USD
+                <i class="fas fa-dollar-sign"></i> 3500$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur harum nostrum eligendi atque porro dolorem numquam praesentium. Voluptatum harum nobis quo, dolorem accusantium saepe soluta. Quidem eveniet quasi blanditiis aliquam magnam facilis ipsa veniam distinctio saepe quibusdam nihil laboriosam</p>
+              <p>Explora con nosotros la gastronomia y cultura de cada lugar al que te llevaremos en este genial país. Entre las excursiones de este viaje conoceras la maravillosa cuidad de Montrial y sus montañas, donde podras esquiar y ademas deleitarte con sus famosos bacles.
+                Te hospedaras en el Hotel King House donde tendras todas las comodidades para que tu experiencia sea placentera. 
+               </p>
               <a href="#" class="btn btn-success btn-block">Más Información</a>
             </div>
           </div>
@@ -32,7 +34,9 @@
               <p>
                 <i class="fas fa-dollar-sign"></i> 5600$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur harum nostrum eligendi atque porro dolorem numquam praesentium. Voluptatum harum nobis quo, dolorem accusantium saepe soluta. Quidem eveniet quasi blanditiis aliquam magnam facilis ipsa veniam distinctio saepe quibusdam nihil laboriosam</p>
+              <p>En este viaje conoceras Grecia y sus alrededores, donde te llevaremos a que pruebes su gastronomia, tendras excursiones que te permitaran conocer la cultura de este magnifico pais.
+                 En este viaje el Hotel Ryzer Suite te hospedara en una de sus mas comodas habitaciones, dentro de el contaras tambien con piscina privada, jacuzzy, servicio a la habitacion, podras disfrutar de sus populares fiestas nocturnas y todo esto por un precio accesible.
+              </p>
               <a href="#" class="btn btn-success btn-block">Más Información</a>
             </div>
           </div>
@@ -49,7 +53,10 @@
               <p>
                 <i class="fas fa-dollar-sign"></i> 2500$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur harum nostrum eligendi atque porro dolorem numquam praesentium. Voluptatum harum nobis quo, dolorem accusantium saepe soluta. Quidem eveniet quasi blanditiis aliquam magnam facilis ipsa veniam distinctio saepe quibusdam nihil laboriosam</p>
+              <p>¡Aprovecha nuestra promoción para recien casados! 
+                Conoceras junto a tu pareja la romantica ciudad de Paris, en donde te organizaremos una cena inolvidable en la Torre Eiffel, tambien conoceras la histórica Catedral North D' Dam, entre otros hermosos lugares.
+                 Te hospedaras en el Sweet Love, donde tendran las mejores comodidades ¡No querrán salir de la habitación!
+              </p>
               <a href="#" class="btn btn-success btn-block">Más Información</a>
             </div>
           </div>
@@ -62,11 +69,13 @@
               <p>
                 <i class="fas fa-calendar-alt"></i>
                 01/07/2020 - 15/07/2020
-              </p>
+              </p> 
               <p>
                 <i class="fas fa-dollar-sign"></i> 4300$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet onsectetur adipisicing elit. Consequuntur harum nostrum eligendi atque porro dolorem numquam praesentium. Voluptatum harum nobis quo, dolorem accusantium saepe soluta.</p>
+              <p>Revive con nosotros los momentos ocurridos en este historico lugar. Sientate en primara fila como un gladiador y disfruta del espectaculo como rey.
+                El hotel Victorinox te recibira como un campeon. Tendras el mejor servicio, con una excelente calidad y todo por un bajo precio.
+              </p>
               <a href="#" class="btn btn-success btn-block">Más Información</a>
             </div>
           </div>
@@ -83,7 +92,9 @@
               <p>
                 <i class="fas fa-dollar-sign"></i> 5600$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet onsectetur adipisicing elit. Consequuntur harum nostrum eligendi atque porro dolorem numquam praesentium. Voluptatum harum nobis quo, dolorem accusantium saepe soluta.</p>
+              <p>Recorre Inglaterra y Disfruta del Big Time. Conoce con nuestra agencia de viajes este imponente País, en el roadmap de nuestras excursiones podras apreciar el castillo de la realeza. Descubre la univerisdad de Oxford y algunas de los lugares emblematicos donde se grabaron peliculas de leyenda como Harry Potter
+                Te hospedaras en la cuidad de Cambridge en el hotel britanico Isabella Suite VIP.
+              </p>
               <a href="#" class="btn btn-success btn-block">Más Información</a>
             </div>
           </div>
@@ -100,7 +111,7 @@
               <p>
                 <i class="fas fa-dollar-sign"></i> 2600$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet onsectetur adipisicing elit. Consequuntur harum nostrum eligendi atque porro dolorem numquam praesentium. Voluptatum harum nobis quo, dolorem accusantium saepe soluta.</p>
+              <p>Explora con nosotros los estadios renovados para la copa del mundo, como el legendario Maracaná. Goza de una aventura en este afrodisiaco país como Brasil. Recorre sus maravillosas playas, flora y fauna. Te llevaremos al Cristo Redentor y paseras por las faelas de Rio de Janeiro.</p>
               <a href="#" class="btn btn-success btn-block">Más Información</a>
             </div>
           </div>

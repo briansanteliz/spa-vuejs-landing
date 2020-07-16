@@ -33,8 +33,8 @@
               <p>
                 <i class="fas fa-dollar-sign"></i> 100$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-              <a href="#" class="btn btn-success btn-block">Más Información</a>
+              <p>Explora con nosotros la gastronomia y cultura de cada lugar al que te llevaremos en este genial país.</p>
+              <router-link to="/viajes" class="btn btn-success btn-block">Más Información</router-link>
             </div>
           </div>
         </div>
@@ -50,8 +50,8 @@
               <p>
                 <i class="fas fa-dollar-sign"></i> 5600$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-              <a href="#" class="btn btn-success btn-block">Más Información</a>
+              <p>En este viaje conoceras Grecia y sus alrededores.</p>
+              <router-link to="/viajes" class="btn btn-success btn-block">Más Información</router-link>
             </div>
           </div>
         </div>
@@ -67,8 +67,9 @@
               <p>
                 <i class="fas fa-dollar-sign"></i> 2500$ USD
               </p>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-              <a href="#" class="btn btn-success btn-block">Más Información</a>
+              <p>¡Aprovecha nuestra promoción para recien casados! 
+                Conoceras junto a tu pareja la romantica ciudad de Paris.</p>
+              <router-link to="/viajes" class="btn btn-success btn-block">Más Información</router-link>
             </div>
           </div>
         </div>

@@ -56,7 +56,7 @@
                   <blockquote class="blockquote">
                     <p
                       class="mb-0"
-                    >Montrial es genial! la agencia me ofrecio una gran oferta por conocer Canada, estoy muy agradecidos con ustedes!</p>
+                    >Montrial es genial! la agencia me ofrecio una gran oferta para conocer Canada, estoy muy agradecidos con ustedes!</p>
                     <footer class="blockquote-footer">Ricardo Hamilton</footer>
                   </blockquote>
                 </div>
@@ -68,7 +68,7 @@
                   <blockquote class="blockquote">
                     <p
                       class="mb-0"
-                    >Las playas de Rio son lo mejore, me encanta el clima tropical,muy buena seguridad</p>
+                    >Las playas de Rio son lo mejor, me encanta el clima tropical,muy buena seguridad</p>
                     <footer class="blockquote-footer">Giovanna Victoria</footer>
                   </blockquote>
                 </div>
