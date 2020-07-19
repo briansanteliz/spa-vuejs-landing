@@ -137,6 +137,9 @@ export default {
   },
   methods: {
     enviarDatos() {
+      if (this.testimonio.nombre === "" || this.testimonio.correo === '' || this.testimonio.mensaje === "") {
+        Swal.fire("Error!", "Todos los campos son obligatorios", "error");
+      } else{
       fetch("/testimonios", {
         method: "POST",
         body: JSON.stringify(this.testimonio),
@@ -149,7 +152,7 @@ export default {
         .then(console.log("Mensaje Enviado"));
       this.testimonio = new Testimonio();
       Swal.fire("Guardado!", "Muchas gracias por tu mensaje!", "success");
-    }
+    }}
   }
 };
 </script>
